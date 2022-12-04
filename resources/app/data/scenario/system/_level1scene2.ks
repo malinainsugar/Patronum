@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/2.png"  ]
+[preload  storage="./data/fgimage/chara/3/моргает.gif"  ]
+[preload  storage="./data/bgimage/Запомни!.png"  ]
+[preload  storage="./data/fgimage/chara/3/рассказывает.gif"  ]
+[return]
